@@ -239,10 +239,9 @@ a {
 		line-height: 2;
 	}
 	.site-subheading {
-		font-weight: 600
 		max-width: 640px;
 		margin: 0 auto;
-		color: $white;
+		color: rgba(255,255,255,.5);
 	}
 
 }
@@ -372,12 +371,6 @@ a {
 		}
 	}
 }
-
-
-
-
-
-
 
 .progress {
   overflow: visible;
